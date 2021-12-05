@@ -1,6 +1,6 @@
 # Slack-clone
 # Basic info
-An messaging-application and a demo-clone of the SLACK. 
+A real-time messaging-application and a demo-clone of the SLACK. 
 # Tech stacks used
 It has React as the web client.
 Firebase for backend and the database.
